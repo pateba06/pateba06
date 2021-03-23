@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Badal
 - 👀 I’m interested in Angular,JavaScript,TypeScript,Python,Tableau,...
 - 🌱 I’m currently learning ...Angular
-- 💞️
-- 📫
-
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pateba06&layout=compact)]
 
 <!---
