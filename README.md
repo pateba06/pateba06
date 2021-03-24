@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Badal
 - 👀 I’m interested in Angular,JavaScript,TypeScript,Python,Tableau,...
+- # Learn>>Share>>LessonLearn>>Learn>>Share>>
 - 🌱 I’m currently learning ...Angular
 
 
